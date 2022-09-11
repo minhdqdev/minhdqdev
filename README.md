@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Minh. I've just graduated from Hanoi University of Science and Technology (HUST) with Engineer's degree in this August 2022.
-I find buiding large distributed systems is super fascinating. Though I'm still a fresher at the moment, I always try to keep an open mindset to learn new skills. My short-term goal is to become a senior software engineer 👨‍💻.
+My name is Minh. I've just graduated from Hanoi University of Science and Technology (HUST) with Engineer's degree this August 2022.
+I find building large distributed systems super fascinating. Though I'm still a fresher at the moment, I always try to keep an open mindset to learn new skills. My short-term goal is to become a senior software engineer 👨‍💻.
 
 
 🔖 My CV: [https://minhdq99hp.github.io/cv/](https://minhdq99hp.github.io/cv/)
