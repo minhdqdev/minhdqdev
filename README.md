@@ -23,8 +23,8 @@ I find building large distributed systems super fascinating. Though I'm still a 
 
 💪 My LeetCode: [https://leetcode.com/minhdq99hp](https://leetcode.com/minhdq99hp/)
 
-📗 My personal blog: [https://minhdq99hp.dev](https://minhdq99hp.dev)
+📗 My personal blog: [Minh Create Stuff](https://minhdq99hp.dev)
 
 📕 My technical handbook (which I built with my friends): [https://overcodedzz.github.io/handbook](https://overcodedzz.github.io/handbook/)
 
-☕️ Buy me a coffee [here](https://www.buymeacoffee.com/minhdq99hp)
+☕️ Love my contribution? You can buy me a coffee [here](https://www.buymeacoffee.com/minhdq99hp).
