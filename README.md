@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd21yejN5dzBjZnNmM2Q0MjZkdHIyNnI0aDZ1NGZucDdpMGs0eXplOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" alt="Coding" width="200">
 
 My name is Minh. I've just graduated from Hanoi University of Science and Technology (HUST) with Engineer's degree this August 2022.
 I find building large distributed systems super fascinating. Though I'm still a fresher at the moment, I always try to keep an open mindset to learn new skills. My short-term goal is to become a senior software engineer 👨‍💻.
