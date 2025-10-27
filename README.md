@@ -24,7 +24,7 @@ My name’s Minh. I graduated from Hanoi University of Science and Technology in
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<div style="display:flex;gap:10px;align-items:center;flex-wrap:wrap">
+<div style="display:flex;gap:0.5em;align-items:center;flex-wrap:wrap">
   <a href="https://github.com/minhdqdev"><img src="https://komarev.com/ghpvc/?username=minhdqdev&color=blueviolet&style=flat-square" /></a>
   <a href="https://www.linkedin.com/in/minhdqdev/"><img src="https://img.shields.io/badge/-minhdqdev-blueviolet?style=flat-square&logo=x&logoColor=white" /></a>
   <a href="https://www.facebook.com/miinhdq"><img src="https://img.shields.io/badge/-miinhdq-blueviolet?style=flat-square&logo=Facebook&logoColor=white" /></a>
