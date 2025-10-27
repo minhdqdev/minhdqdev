@@ -24,14 +24,9 @@ My name’s Minh. I graduated from Hanoi University of Science and Technology in
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<div style="display: flex; flex-direction: row; gap: 10px;">
-
-![](https://komarev.com/ghpvc/?username=minhdqdev&color=blueviolet&style=flat-square)
-
-[![X Badge](https://img.shields.io/badge/-minhdqdev-blueviolet?style=flat-square&logo=x&logoColor=white&link=https://www.linkedin.com/in/minhdqdev/)](https://www.linkedin.com/in/minhdqdev/)
-
-[![Facebook Badge](https://img.shields.io/badge/-miinhdq-blueviolet?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/miinhdq)](https://www.facebook.com/miinhdq)
-
-[![Instagram Badge](https://img.shields.io/badge/-minh.create.stuff-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/minh.create.stuff)](https://www.instagram.com/minh.create.stuff)
-
+<div style="display:flex;gap:10px;align-items:center;flex-wrap:wrap">
+  <a href="https://github.com/minhdqdev"><img src="https://komarev.com/ghpvc/?username=minhdqdev&color=blueviolet&style=flat-square" /></a>
+  <a href="https://www.linkedin.com/in/minhdqdev/"><img src="https://img.shields.io/badge/-minhdqdev-blueviolet?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="https://www.facebook.com/miinhdq"><img src="https://img.shields.io/badge/-miinhdq-blueviolet?style=flat-square&logo=Facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/minh.create.stuff"><img src="https://img.shields.io/badge/-minh.create.stuff-blueviolet?style=flat-square&logo=Instagram&logoColor=white" /></a>
 </div>
