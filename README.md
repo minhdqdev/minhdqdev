@@ -10,11 +10,11 @@ My name’s Minh. I graduated from Hanoi University of Science and Technology in
 
 🔖 My CV: [https://minhdqdev.github.io/cv](https://minhdqdev.github.io/cv/)
 
-💪 My LeetCode: [https://leetcode.com/minhdqdev](https://leetcode.com/minhdqdev/)
+💪 My LeetCode: [https://leetcode.com/u/minhdq99hp/](https://leetcode.com/u/minhdq99hp/)
 
 📗 My personal blog: [Minh Create Stuff](https://minhdq.dev)
 
-📕 My technical handbook (which I built with my friends): [https://overcodedzz.github.io/handbook](https://overcodedzz.github.io/handbook/)
+📕 My technical handbook (built with my friends): [https://overcodedzz.github.io/handbook](https://overcodedzz.github.io/handbook/)
 
 ☕️ Love my contribution? You can buy me a coffee [here](https://www.buymeacoffee.com/minhdq99hp).
 
