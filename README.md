@@ -18,11 +18,20 @@ My name’s Minh. I graduated from Hanoi University of Science and Technology in
 
 ☕️ Love my contribution? You can buy me a coffee [here](https://www.buymeacoffee.com/minhdq99hp).
 
+---
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
+<div style="display: flex; flex-direction: row; gap: 10px;">
+
 ![](https://komarev.com/ghpvc/?username=minhdqdev&color=blueviolet&style=flat-square)
 
-[![X Badge](https://img.shields.io/badge/-minhdqdev-blue?style=flat-square&logo=x&logoColor=white&link=https://www.linkedin.com/in/minhdqdev/)](https://www.linkedin.com/in/minhdqdev/)
+[![X Badge](https://img.shields.io/badge/-minhdqdev-blueviolet?style=flat-square&logo=x&logoColor=white&link=https://www.linkedin.com/in/minhdqdev/)](https://www.linkedin.com/in/minhdqdev/)
 
-[![Facebook Badge](https://img.shields.io/badge/-minhdqdev-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/minhdqdev)](https://www.facebook.com/minhdqdev)
+[![Facebook Badge](https://img.shields.io/badge/-miinhdq-blueviolet?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/miinhdq)](https://www.facebook.com/miinhdq)
+
+[![Instagram Badge](https://img.shields.io/badge/-minh.create.stuff-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/minh.create.stuff)](https://www.instagram.com/minh.create.stuff)
+
+</div>
