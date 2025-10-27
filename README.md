@@ -20,7 +20,7 @@ My name’s Minh. I graduated from Hanoi University of Science and Technology in
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,ts,nodejs,django,spring,nextjs,postgres,redis,prometheus,vim,vscode,linux,postman,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,ts,django,spring,nextjs,postgres,redis,prometheus,vim,vscode,linux,postman,obsidian)](https://skillicons.dev)
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
