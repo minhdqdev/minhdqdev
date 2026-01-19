@@ -7,16 +7,7 @@ Ha! You found my GitHub profile! Here is your easter egg 🥚: https://bit.ly/4n
 
 My name’s Minh. I graduated from Hanoi University of Science and Technology in August 2022 with an Engineer’s degree—which is a fancy way of saying I survived late nights, too much coffee, and endless debugging. I’m fascinated by large distributed systems (the kind of tech puzzles that keep you awake at night, in a good way). I’m still a fresher, but I make up for it with curiosity and a habit of picking up new skills like side quests. In the short run, my goal is simple: evolve into a senior software engineer 👨‍💻 — the version of me that ships fewer bugs and maybe actually sleeps.
 
-
-🔖 My CV: [https://minhdqdev.github.io/cv](https://minhdqdev.github.io/cv/)
-
-💪 My LeetCode: [https://leetcode.com/u/minhdq99hp/](https://leetcode.com/u/minhdq99hp/)
-
-📗 My personal blog: [Minh Create Stuff](https://minhdq.dev)
-
-📕 My technical handbook (built with my friends): [https://overcodedzz.github.io/handbook](https://overcodedzz.github.io/handbook/)
-
-☕️ Love my contribution? You can buy me a coffee [here](https://www.buymeacoffee.com/minhdq99hp).
+[CV](https://minhdqdev.github.io/cv/) | [LeetCode](https://leetcode.com/u/minhdq99hp/) | [Personal Blog](https://minhdq.dev) | [Buy me a coffee](https://www.buymeacoffee.com/minhdq99hp).
 
 ---
 
